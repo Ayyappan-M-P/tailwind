@@ -1,7 +1,8 @@
 export default function Home() {
   return (
     <div>
-      <h1 className="bg-next-100">homepage</h1>
+      <p>homepage</p>
+      <p>another application</p>
     </div>
     
   );
